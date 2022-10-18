@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.contain2 {
+    display: flex;
+    justify-content: center;
+}
+
+.picBox {
+    height: 21rem;
+    width: 27rem;
+}
+
+h1 {
+    font-size: 3.5rem;
+    color: #16afbd;
+    -webkit-text-stroke-color: antiquewhite;
+    -webkit-text-stroke-width: 2px;
+}
+
+.charBtn {
+    background-color: #16afbd;
+    color: white;
+    border: .15rem solid white;
+    width: 50%;
+}
